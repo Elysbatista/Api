@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Api03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61515574-DFD2-4888-A806-E58E6AE067FF}|Api03\\Api03.csproj|c:\\users\\dell\\source\\repos\\api03\\api03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61515574-DFD2-4888-A806-E58E6AE067FF}|Api03\\Api03.csproj|solutionrelative:api03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61515574-DFD2-4888-A806-E58E6AE067FF}|Api03\\Api03.csproj|c:\\users\\dell\\source\\repos\\api03\\api03\\controllers\\noticiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61515574-DFD2-4888-A806-E58E6AE067FF}|Api03\\Api03.csproj|solutionrelative:api03\\controllers\\noticiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB852AE6-893F-4839-B202-FEABF16FABE5}|NewFolder1{DB852AE6-893F-4839-B202-FEABF16FABE5}|C:\\Users\\DELL\\source\\repos\\Api03\\Noticia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB852AE6-893F-4839-B202-FEABF16FABE5}|NewFolder1{DB852AE6-893F-4839-B202-FEABF16FABE5}|solutionrelative:Noticia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Noticia.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Api03\\Noticia.cs",
+              "RelativeDocumentMoniker": "Noticia.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Api03\\Noticia.cs",
+              "RelativeToolTip": "Noticia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:37:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoticiaController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Api03\\Api03\\Controllers\\NoticiaController.cs",
+              "RelativeDocumentMoniker": "Api03\\Controllers\\NoticiaController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Api03\\Api03\\Controllers\\NoticiaController.cs",
+              "RelativeToolTip": "Api03\\Controllers\\NoticiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:26:11.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Api03\\Api03\\Program.cs",
+              "RelativeDocumentMoniker": "Api03\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Api03\\Api03\\Program.cs",
+              "RelativeToolTip": "Api03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:26:38.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

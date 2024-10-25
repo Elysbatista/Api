@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api03", "Api03\Api03.csproj", "{61515574-DFD2-4888-A806-E58E6AE067FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{DB852AE6-893F-4839-B202-FEABF16FABE5}"
+	ProjectSection(SolutionItems) = preProject
+		Noticia.cs = Noticia.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61515574-DFD2-4888-A806-E58E6AE067FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61515574-DFD2-4888-A806-E58E6AE067FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61515574-DFD2-4888-A806-E58E6AE067FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61515574-DFD2-4888-A806-E58E6AE067FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3164D609-1D17-47D1-9DE8-3EF8A2F7F53A}
+	EndGlobalSection
+EndGlobal
